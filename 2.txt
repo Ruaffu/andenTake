@@ -3,6 +3,7 @@ hej med dig
 
 har du en kat?
 
+<<<<<<< HEAD
 
 
 
@@ -19,3 +20,6 @@ har du en kat?
 
 
 jeg har en hund
+
+ja jeg har 2
+
